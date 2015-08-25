@@ -1,7 +1,17 @@
 # IAAF-Stats
-Statistics from the IAAF world championships
 
-This repo contains all of the datasets used on at tjwaterman.com, as well as the web pages they're parsed from. You can find the scripts that download and scrape the pages in here as well. 
+This repo contains all of the datasets used on tjwaterman.com. You can find them located here:
 
-The iPython notebooks are located under /xx. 
+	-
 
+You can also find the scripts that download and parse the web pages here:
+
+	-
+
+The iPython notebooks are here:
+
+	-
+
+A standalone module that simply generates all the visuals is here:
+
+	-
